@@ -1,0 +1,49 @@
+*{
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 1300px;
+    margin: auto;
+    text-align: center;
+}
+section{
+    width: 1000px;
+    margin: auto;
+}
+.titulo{
+    color: purple; /*cambia de color el texto*/
+    font-size: 30px; /*cambia el tamaño del texto*/
+    font-family:sans-serif; /*cambia la fuente del 
+    texto*/   
+}
+.img_fruta {
+     width: 200px; /*Ancho de una imagen*/
+     height: 220px; /*Altura de una imagen */
+     border: 5px double black;  /*borde de una imagen*/
+     border-radius: 50px;  /* redondear el borde de una imagen*/     
+}
+.letra{
+    color:brown;
+    font-size: 20px;
+    font-family: inherit;
+}
+body{
+    background-color: burlywood;
+}
+.tabla{
+    margin: 15px 0px 0px 0px; 
+}
+.tituloTabla{
+    background-color: chartreuse;
+    font-family: monospace;
+    padding: 15px 0px 0px 0px; 
+}
+section ul{
+      padding: 0px 0px 0px 15px;  
+}
+section ol{
+     padding: 0px 0px 0px 15px; 
+}
+
